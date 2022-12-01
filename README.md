@@ -18,8 +18,7 @@
 	<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 	<img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white" />
 </div><br/>
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2hyeseung&layout=compact"><br><br>
 
 
 
